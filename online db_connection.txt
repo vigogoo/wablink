@@ -1,0 +1,7 @@
+justdeals@2017
+justdeal_user
+database:justdeal_main
+
+justsms2017
+usrname:justdeal_justsms
+database:justdeal_main

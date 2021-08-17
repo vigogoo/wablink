@@ -1,0 +1,255 @@
+[06-Jul-2017 08:46:21 America/Denver] PHP Notice:  Undefined index: order_id in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 9
+[06-Jul-2017 08:46:21 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 18
+[12-Jul-2017 01:15:24 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[12-Jul-2017 01:16:11 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[12-Jul-2017 01:27:49 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[12-Jul-2017 01:31:56 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[12-Jul-2017 01:35:19 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[12-Jul-2017 01:35:26 Africa/Kampala] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getItemsNearMe.php on line 13
+[12-Jul-2017 01:36:05 Africa/Kampala] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getItemsNearMe.php on line 13
+[12-Jul-2017 01:36:31 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[12-Jul-2017 01:44:07 Africa/Kampala] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getItemsNearMe.php on line 13
+[12-Jul-2017 01:53:12 Africa/Kampala] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getItemsNearMe.php on line 13
+[12-Jul-2017 02:18:16 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:24:38 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:29:54 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:31:21 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:33:54 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:34:47 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:36:40 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:36:54 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 22
+[12-Jul-2017 02:37:48 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:42:34 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:42:37 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:44:03 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:44:33 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:45:25 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 22
+[12-Jul-2017 02:45:51 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:46:25 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/register_user.php on line 21
+[12-Jul-2017 02:54:42 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 29
+[12-Jul-2017 03:13:03 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:13:03 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:13:03 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:13:03 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:13:03 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:13:06 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:13:06 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:13:06 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:13:06 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:13:06 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:13:08 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:13:08 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:13:08 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:13:08 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:13:08 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:17:16 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:17:16 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:17:16 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:17:16 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:17:16 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:17:18 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:17:18 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:17:18 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:17:18 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:17:18 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:17:19 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:17:19 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:17:19 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:17:19 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:17:19 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:17:20 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:17:20 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:17:20 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:17:20 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:17:20 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:17:22 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:17:22 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:17:22 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:17:22 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:17:22 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:26:14 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:26:14 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:26:14 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:26:14 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:26:14 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:26:15 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:26:15 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:26:15 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:26:15 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:26:15 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 03:26:17 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 03:26:17 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 03:26:17 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 03:26:17 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 03:26:17 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:04:44 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:04:44 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:04:44 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:04:44 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:04:44 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:04:47 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:04:47 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:04:47 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:04:47 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:04:47 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:14:15 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:14:15 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:14:15 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:14:15 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:14:15 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:14:21 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:14:21 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:14:21 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:14:21 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:14:21 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:15:05 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:15:05 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:15:05 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:15:05 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:15:05 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:15:45 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:15:45 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:15:45 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:15:45 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:15:45 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:17:17 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:17:17 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:17:17 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:17:17 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:17:17 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:19:05 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:19:05 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:19:05 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:19:05 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:19:05 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:19:07 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:19:07 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:19:07 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:19:07 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:19:07 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:19:31 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:19:31 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:19:31 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:19:31 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:19:31 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:19:45 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:19:45 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:19:45 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:19:45 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:19:45 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:20:04 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:20:04 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:20:04 America/Denver] PHP Notice:  Undefined index: type in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 7
+[12-Jul-2017 04:20:04 America/Denver] PHP Notice:  Undefined variable: sql in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 20
+[12-Jul-2017 04:20:04 America/Denver] PHP Fatal error:  Wrong SQL:  Error: 1065 Query was empty in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 22
+[12-Jul-2017 04:20:42 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:20:42 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:22:00 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:22:00 America/Denver] PHP Notice:  Undefined index: password in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 6
+[12-Jul-2017 04:22:21 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:22:41 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:23:29 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:23:31 America/Denver] PHP Notice:  Undefined index: phone in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer.php on line 5
+[12-Jul-2017 04:46:22 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 29
+[12-Jul-2017 04:48:42 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 73
+[12-Jul-2017 04:53:29 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[12-Jul-2017 04:56:13 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 64
+[12-Jul-2017 04:57:23 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 64
+[12-Jul-2017 04:58:26 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 65
+[12-Jul-2017 04:59:54 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 65
+[12-Jul-2017 05:00:26 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 65
+[12-Jul-2017 05:02:09 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[12-Jul-2017 05:02:58 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 64
+[12-Jul-2017 05:03:37 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 64
+[12-Jul-2017 05:04:41 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 64
+[12-Jul-2017 05:07:27 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 66
+[12-Jul-2017 05:07:29 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 66
+[12-Jul-2017 05:08:24 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 66
+[12-Jul-2017 05:17:35 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getVerificationCodes.php on line 24
+[12-Jul-2017 05:17:48 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getVerificationCodes.php on line 24
+[12-Jul-2017 05:19:17 America/Denver] PHP Notice:  Undefined offset: 0 in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[12-Jul-2017 05:21:50 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[12-Jul-2017 05:40:43 America/Denver] PHP Notice:  Undefined variable: sql1 in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 13
+[12-Jul-2017 05:40:43 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 13
+[12-Jul-2017 05:41:25 America/Denver] PHP Notice:  Undefined variable: sql1 in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 13
+[12-Jul-2017 05:41:25 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 13
+[12-Jul-2017 05:42:15 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 05:51:44 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 05:56:19 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 05:56:24 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 05:58:02 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 05:58:12 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 05:59:02 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 05:59:15 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[12-Jul-2017 06:07:44 America/Denver] PHP Notice:  Undefined variable: row in /home2/justdeal/public_html/justcreativemedia/justdeals/api/merchantCodes.php on line 18
+[13-Jul-2017 09:45:27 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[13-Jul-2017 09:55:12 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[13-Jul-2017 09:55:41 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[13-Jul-2017 10:10:28 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[13-Jul-2017 10:14:56 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[16-Jul-2017 08:41:51 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[16-Jul-2017 08:46:35 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[16-Jul-2017 11:28:56 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 64
+[16-Jul-2017 11:29:08 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 64
+[16-Jul-2017 11:34:51 America/Denver] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 47
+[16-Jul-2017 11:39:28 America/Denver] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 47
+[16-Jul-2017 11:40:28 America/Denver] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 47
+[16-Jul-2017 11:43:39 America/Denver] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 46
+[16-Jul-2017 11:49:47 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 61
+[16-Jul-2017 11:56:57 America/Denver] PHP Fatal error:  Wrong SQL: select name, contact, customer_id, email from customer where fbtt_id=? Error: 1054 Unknown column 'gender' in 'field list' in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 62
+[16-Jul-2017 11:58:14 America/Denver] PHP Fatal error:  Wrong SQL: select name, contact, customer_id, email from customer where fbtt_id=? Error: 1054 Unknown column 'gender' in 'field list' in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[16-Jul-2017 12:01:06 America/Denver] PHP Fatal error:  Wrong SQL: select name, contact, customer_id, email from customer where fbtt_id=? Error: 1054 Unknown column 'gender' in 'field list' in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[16-Jul-2017 12:05:44 America/Denver] PHP Fatal error:  Wrong SQL: 1054 Unknown column 'gender' in 'field list' in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[16-Jul-2017 12:08:11 America/Denver] PHP Fatal error:  Wrong SQL: 1054 Unknown column 'gender' in 'field list' in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[16-Jul-2017 12:08:14 America/Denver] PHP Fatal error:  Wrong SQL: 1054 Unknown column 'gender' in 'field list' in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 63
+[16-Jul-2017 12:09:57 America/Denver] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 71
+[16-Jul-2017 12:16:40 America/Denver] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 70
+[16-Jul-2017 12:18:38 America/Denver] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/login_customer_fb.php on line 70
+[16-Jul-2017 13:45:28 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 02:42:54 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 03:53:56 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 04:31:40 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 04:32:40 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 04:33:49 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 04:34:35 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 04:35:25 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 04:39:51 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:04:51 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:21:10 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:23:56 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:24:14 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:24:17 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:24:24 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:24:30 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:32:55 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:32:57 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:32:58 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:33:53 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:34:00 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:34:10 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 09:36:54 America/Denver] PHP Notice:  Undefined index: userId in /home2/justdeal/public_html/justcreativemedia/justdeals/api/searchMerchantCodes.php on line 7
+[18-Jul-2017 09:37:12 America/Denver] PHP Notice:  Undefined index: userId in /home2/justdeal/public_html/justcreativemedia/justdeals/api/searchMerchantCodes.php on line 7
+[18-Jul-2017 09:37:23 America/Denver] PHP Notice:  Undefined index: userId in /home2/justdeal/public_html/justcreativemedia/justdeals/api/searchMerchantCodes.php on line 7
+[18-Jul-2017 09:41:21 America/Denver] PHP Notice:  Undefined index: userId in /home2/justdeal/public_html/justcreativemedia/justdeals/api/searchMerchantCodes.php on line 7
+[18-Jul-2017 09:58:16 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/justdeal/public_html/justcreativemedia/justdeals/api/searchMerchantCodes.php on line 12
+[18-Jul-2017 09:58:24 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/justdeal/public_html/justcreativemedia/justdeals/api/searchMerchantCodes.php on line 12
+[18-Jul-2017 10:46:10 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 10:47:03 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 10:47:04 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 10:47:05 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 10:48:36 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 10:48:44 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 10:53:10 America/Denver] PHP Notice:  Undefined index: order_id in /home2/justdeal/public_html/justcreativemedia/justdeals/api/redeemVoucher.php on line 6
+[18-Jul-2017 10:56:51 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:00:26 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:00:26 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:00:29 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:00:59 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:21:40 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:21:45 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:37:50 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:42:18 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[18-Jul-2017 11:42:31 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/justdeal/public_html/justcreativemedia/justdeals/api/getAllCodeInfo.php on line 31
+[24-Jul-2017 19:03:40 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[24-Jul-2017 19:04:09 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
+[24-Jul-2017 19:05:56 Africa/Kampala] PHP Notice:  Undefined variable: SliderImages in /home2/justdeal/public_html/justcreativemedia/justdeals/api/Utilities.php on line 48
